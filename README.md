@@ -51,5 +51,7 @@ Radar Plots       |Pizza Plots
 
 ## Distribution Plot
 
-![sam_deadfield](https://user-images.githubusercontent.com/110287328/182390108-c6ff9c86-0372-4c04-b3cd-5cff8210921a.png)
+![D  Rice_vs_W  Ndidi_dist_plot](https://user-images.githubusercontent.com/110287328/182716133-7d99f497-8954-4e5b-82d9-b674480d93d2.png)
+
+
 

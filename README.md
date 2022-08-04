@@ -26,7 +26,7 @@ Furthermore, Ndidi has exceptional definding statistics making nearly 8 possessi
 
 ### Remarks
 
-*It is worth noting that the area of the radar does not fully represent how good a player is. This is because it is dependent on the ordering of the angular axis. If all the players favoured statistics are grouped together, then the area at one side of the radar will be large and 'look more appealling'. On the other hand, alternating players favourable statistics will give the appearance of a 'spikey' radar, thus 'looking worse'. The user must be careful and only consider how the player ranks in each statistic separately.*
+*It is worth noting that the area of the radar does not fully represent how good a player is. This is because it is dependent on the ordering of the angular axis. If all the player's favoured statistics are grouped together, then the area at one side of the radar will be large and 'look more appealling'. On the other hand, alternating player's favourable statistics will give the appearance of a 'spikey' radar and thus 'looking worse'. The user must be careful and only consider how the player ranks in each statistic separately.*
 
 ## Pizza Plot
 

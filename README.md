@@ -1,10 +1,10 @@
 # Football Statistics Visualisation
 
-This file contains three slightly different methods of visualising player's stats over a season. Examples are player radars, pizza plots and distribution plots. These can all be utilised slight differently to staitsically flag players for scouting using comparisons between players n similar leagues. Additionally, it can be used to compare player's statistics between different seasons in order to highlight how a player has developed over time and help aid their development.
+This file contains three slightly different methods of visualising player's stats over a season. Examples are player radars, pizza plots and distribution plots. These can all be utilised slight differently to statistically flag players for scouting building on comparisons between players in similar leagues. Additionally, it can be used to compare player's statistics between different seasons in order to highlight how a player has developed over time to aid their development.
 
 *All methods in this document are not assumed to be unique, but instead showcase personal constructions used to evaluate players. Specific details of code and presentation have been created by Oliver Whaites.*
 
-*Data used for visualisations in this document is sourced from Wyscout.*
+*Data used for visualisations in this document has been sourced from Wyscout.*
 
 ## Data used
 
@@ -46,9 +46,9 @@ There are pros and cons to both of these plots. Altough clearer, the pizza plot 
 
 Radar Plots       |Pizza Plots         
 |-----------------|-------------------|
-|- Displays raw information |- Can remove outlying performers|
-|- Can compare two players in one figure|- Clearly displays players strengths|
-|- Can infer playstyle | - Can infer playstyle|
+|- Displays raw information |- Can remove outlying performers |
+|- Can compare two players in one figure |- Clearly displays player's strengths |
+|- Can infer playstyle | - Can infer playstyle |
 
 
 ## Distribution Plot

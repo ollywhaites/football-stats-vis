@@ -65,6 +65,6 @@ As an example, see the distribution plot for Declan Rice and Wilfred Ndidi again
 
 The distribution plot contains all the information that both the pizza plot and player radar do about each statistic. Additionally, it expands on them both to give the full details on how each statistic is distributed. Although good, the distribution plot suffers from information overload and does not allow the user to observe more that 5-6 statistics. As well as this, separation of the statistics into individual distributions breaks the connection between them, making it harder to to analyse the role of the player in the team they play for. 
 
-##Conclusion
+## Conclusion
 
 All the above methods have the place and have been shown to effective convey similar yet different messages about a players quality and playstyle. Although some have clear advantages, a more balanced approach of technical scouting should utilise all these methods and more to extract as much meaning out of the statistics as possible.

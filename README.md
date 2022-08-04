@@ -67,4 +67,4 @@ The distribution plot contains all the information that both the pizza plot and 
 
 ## Conclusion
 
-All the above methods have the place and have been shown to effective convey similar yet different messages about a players quality and playstyle. Although some have clear advantages, a more balanced approach of technical scouting should utilise all these methods and more to extract as much meaning out of the statistics as possible.
+All the above methods have their place and have been shown to effectively convey similar yet different messages about a players quality and playstyle. Although some have clear advantages and disadvantages, a more balanced approach of technical scouting should utilise all these methods and more to extract as much meaning out of the statistics and data as possible.

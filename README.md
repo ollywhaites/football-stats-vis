@@ -17,7 +17,7 @@ Unless stated otherwise, the statistics used are normalised to per 90 or percent
 Player radars commonly used to evaluate the playstyle and quality of a player. Statistics are displayed in a radial plot format where the further the line/datapoint is away from the centre, the larger the numerical value of the statistic is. All players in the dataset are normalised in each statitsic, such that the outer values in the radar are the maximum in the dataset and the inner values are the minimum. For the majority of statistics, larger numeric values signify that how good a player is in that statistic. However, in general this is not always the case in some statitsics (e.g Yellow Cards, Fouls, ...). In order to evaluate the quality of a player, the base average level of players in the chosen league season are plotted as the mean values, denoted as a dahsed grey line. Below is an example of a player radar.
 
 
-![D  Rice_vs_W  Ndidi](https://user-images.githubusercontent.com/110287328/182711667-510248d9-f206-425d-b792-b7aeeb98d253.png)
+![Declan Rice vs Wilfred Ndidi Radar](Plots/D_Rice-vs-W_Ndidi-radar.png)
 
 
 As an showcase, this radar compares the quality and playstyle of Declan Rice of West Ham United and Wilfred Ndidi of Leicester City for the 2021-2022 Premier League season. Differences in their radars gives insight into stengths in a player's game relative to another player or difference in playstyle. In the above radar, Declan Rice's passing statsistics are shown to exceed that of Ndidi's. Rice is shown to be one of the top players for passing accuracy stats in the 2021-2022 season, where he tops Forward pass accuracy. Whereas, Ndidi has sub-average passing stats in all catagories except for lateral passes. From this we can gather that Ndidi may not get involved in Leicester's build up play and may only shunt the ball to nearby midfielders. Rice on the other hand, may be seen in possession more and inspire some of West Ham United's build up play, echoed in his above average assisting based statistics. 
@@ -37,7 +37,7 @@ The pizza plot aims to address this limitation. Rather than displaying the raw v
 
 Declan Rice             |  Wilfred Ndidi
 :-------------------------:|:-------------------------:
-![D  Rice](https://user-images.githubusercontent.com/110287328/182711303-4744f0d5-3e6b-473d-a42d-35bbf3d54480.png) |   ![W  Ndidi](https://user-images.githubusercontent.com/110287328/182711349-77be4295-be2d-481d-8f65-0703469b9d6f.png)
+![Declan Rice Pizza Plot](Plots/D_Rice-pizza.png) |   ![Wilfred Ndidi Pizza Plot](Plots/W_Ndidi-pizza.png)
 
 
 More information is shown about the two players in these plots. In the radar plot, the final product (blue) statistics look low for both players and the average. Most likely this is due to a few outlying performers who have drastically higher values in these statistics. Looking at the pizza plot shows in fact that Rice performs well in these areas, falling in the 87th percentile for expected assist (xA) per key pass and the 84th percentile for Second/Third Assists. Further issues may arise when looking at the passing, which for Ndidi is further away from the centre of the radar (creating a larger area) than some of his creative stats, whereas the pizza plot highlights that he is roughly in the same percentile for both. It is worth noting that this is visible in the radar plot (see that Rice's stats fall above average), yet the pizza plot displays this fact clearer. 
